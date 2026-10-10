@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+googleplaystore_user_reviews.csv
+googleplaystore.csv
+.DS_Store
